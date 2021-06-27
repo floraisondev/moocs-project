@@ -57,11 +57,11 @@ if(interactive()){#
       mainPanel(
         tabsetPanel(type="tab",
                     tabPanel("Instructions",textOutput("display"),textOutput("display1"),textOutput("display2"),tableOutput("print1")),
-                    tabPanel("Output",tags$img(src="neuralnet2.png"),textOutput("C")),
-                    tabPanel("other_models",tags$img(src="dtree.png"),tags$img(src="svm.png")),
-                    tabPanel("cross_validation",tags$img(src="nnet.png"),tags$img(src="dt1.png"),tags$img(src="svm1.png")),
-                    tabPanel("Clustering_results",tags$img(src="sil.png"),tags$img(src="clu.png")),
-                    tabPanel("data_set",tableOutput("display5"))
+                    tabPanel("Output",tags$img(src="nueralnet.png"),textOutput("C")),
+                    tabPanel("Other Models",tags$img(src="dt.png"),tags$img(src="svm.png")),
+                    #tabPanel("cross_validation",tags$img(src="nnet.png"),tags$img(src="dt1.png"),tags$img(src="svm1.png")),
+                    tabPanel("Clustering Results",tags$img(src="cluster.png"),tags$img(src="medoids.png")),
+                    tabPanel("Data Set",tableOutput("display5"))
                     #tabPanel("instructions",textOutput("display"),tableOutput("print1"),tableOutput("print2"))
         )
         

@@ -79,6 +79,7 @@ if(interactive()){#
       output$print57<-renderPrint(print(k.data3[57,c(1,3)]))
       output$print58<-renderPrint(print(k.data3[58,c(1,3)]))
       library(MASS)
+      library(e1071)
       library(neuralnet)
       library(MASS)
       library(rpart)
@@ -146,8 +147,10 @@ if(interactive()){#
       predictorvars<-allvars[!allvars%in%"Cluster"]
       predictorvars<-paste(predictorvars,collapse="+")
       form=as.formula(paste("Cluster~",predictorvars,collapse="+"))
+      
       neuralmodel<-neuralnet(formula=form,hidden=c(4,2),linear.output=T,data=traindf1,stepmax=1e6)
       plot(neuralmodel)
+      
       
       library(R.utils)
       
