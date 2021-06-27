@@ -1,0 +1,435 @@
+Cluster, Group,Age,Expected Course Duration,Course Name,Interest,Qualification,Course ID,Gender
+1,15-25,25,14,Data Structures and Algorithms,2,3,16,0
+2,15-25,25,8,Big Data,4,2,3,0
+2,25-35,35,7,programming(c++),4,4,29,1
+3,15-25,25,7,programming(c++),5,3,29,0
+3,15-25,25,12,Compilers,4,3,8,1
+2,45-55,55,10,Machine Learning,4,4,38,1
+3,15-25,25,7,programming(c++),4,3,29,0
+3,15-25,25,10,Machine Learning,4,3,38,0
+1,15-25,25,7,programming(java),4,3,30,0
+1,15-25,25,7,programming(java),4,3,30,1
+3,15-25,25,8,Data Analysis,5,3,11,0
+2,15-25,25,9,Game Theory,5,1,22,1
+2,35-45,45,12,Compilers,4,4,8,0
+3,15-25,25,10,Machine Learning,5,3,38,1
+3,15-25,25,14,Data Structures and Algorithms,4,3,16,1
+1,15-25,25,10,Machine Learning,4,3,38,0
+1,15-25,25,8,Introduction to Data Science,4,3,12,0
+3,15-25,25,7,programming(c++),4,4,29,0
+3,15-25,25,10,Machine Learning,4,3,38,1
+3,15-25,25,7,programming(java),4,3,30,1
+1,<15,15,14,Data Structures and Algorithms,5,0,16,2
+3,15-25,25,7,programming(c++),4,3,29,0
+2,35-45,45,8,Data Analysis,4,4,11,0
+3,15-25,25,6,Automata,3,3,2,0
+2,35-45,45,8,Big Data,5,3,3,0
+2,35-45,45,9,Game Theory,5,4,22,0
+2,35-45,45,10,Designing Cities,5,4,14,0
+3,25-35,35,7,programming(c++),4,3,29,0
+1,15-25,25,6,Cryptography I,3,3,10,0
+3,45-55,55,9,Digital Signal Processing,4,3,17,0
+1,15-25,25,8,Data Analysis,4,3,11,1
+2,25-35,35,8,Big Data,4,3,3,0
+3,45-55,55,7,programming(java),5,3,30,0
+3,15-25,25,10,Machine Learning,4,4,38,0
+3,45-55,55,7,programming(c++),4,3,29,0
+3,15-25,25,7,programming(java),4,3,30,0
+3,15-25,25,8,Introduction to Data Science,4,3,12,1
+1,15-25,25,10,Machine Learning,4,3,38,0
+2,35-45,45,6,An Introduction to Corporate Finance,3,4,20,1
+3,45-55,55,10,Natural Language Processing,4,5,41,0
+2,25-35,35,7,programming(c++),5,4,29,0
+3,15-25,25,8,Introduction to Psychology,4,4,32,1
+2,15-25,25,7,programming(java),5,4,30,1
+2,25-35,35,8,Writing in Sciences,5,3,52,1
+3,<15,15,7,Learn to Program: The Fundamentals,3,1,49,0
+3,15-25,25,14,Data Structures and Algorithms,4,3,16,1
+2,45-55,55,10,Natural Language Processing,2,4,41,1
+1,15-25,25,9,Game Theory,3,3,22,1
+3,25-35,35,6,Cryptography I,2,4,10,0
+3,15-25,25,8,Design: Creation of Artifacts in Society,3,3,13,0
+3,25-35,35,6,An Introduction to Corporate Finance,4,5,20,0
+3,15-25,25,9,Digital Signal Processing,2,3,17,1
+3,35-45,45,8,Statistics: Making Sense of Data,3,3,33,0
+3,15-25,25,5,The Law of the European Union: An Introduction,4,3,31,1
+2,15-25,25,8,Introduction to Psychology,3,4,32,1
+3,15-25,25,8,Big Data,5,3,3,1
+2,15-25,25,12,Statistics One,3,4,55,1
+3,15-25,25,17,A Brief History of Humankind,4,3,28,1
+3,25-35,35,6,An Introduction to Corporate Finance,2,3,20,0
+1,15-25,25,10,Organizational Analysis,2,3,43,1
+3,15-25,25,8,Introduction to Data Science,4,4,12,0
+1,15-25,25,8,Introduction to Data Science,4,3,12,1
+2,15-25,25,8,Big Data,3,4,3,0
+3,15-25,25,6,Automata,4,2,2,0
+3,15-25,25,8,Big Data,3,2,3,0
+1,25-35,35,9,Digital Signal Processing,1,4,17,0
+2,15-25,25,8,Data Analysis,4,2,11,1
+3,15-25,25,7,programming(java),5,3,30,0
+3,15-25,25,7,programming(c++),3,3,29,1
+3,15-25,25,10,Machine Learning,4,2,38,0
+3,25-35,35,7,programming(java),4,3,30,0
+2,35-45,45,15,Introduction to Computing,5,3,46,0
+3,25-35,35,8,Data Analysis,4,3,11,0
+3,25-35,35,7,programming(c++),5,4,29,1
+2,45-55,55,8,Understanding Einstein: The Special Theory of Relativity,4,4,19,0
+2,35-45,45,6,An Introduction to Corporate Finance,5,4,20,0
+2,35-45,45,8,Data Analysis,3,4,11,0
+2,35-45,45,8,Big Data,3,4,3,1
+3,15-25,25,7,programming(c++),4,3,29,0
+2,25-35,35,8,Big Data,5,4,3,0
+2,35-45,45,8,Big Data,4,4,3,0
+3,15-25,25,14,Data Structures and Algorithms,4,3,16,1
+1,15-25,25,7,programming(c++),3,3,29,0
+1,25-35,35,5,Learn to Program: Crafting Quality Code,3,3,50,0
+2,35-45,45,8,Big Data,4,4,3,1
+3,45-55,55,9,Human-Computer Interaction,4,5,26,1
+1,15-25,25,9,Game Theory,4,3,22,0
+2,45-55,55,8,Introduction to Data Science,4,4,12,0
+1,35-45,45,8,Introduction to Data Science,4,3,12,0
+3,15-25,25,12,Compilers,4,3,8,1
+2,35-45,45,8,Introduction to Psychology,4,3,32,1
+1,25-35,35,7,Learn to Program: The Fundamentals,3,3,49,0
+2,45-55,55,8,Introduction to Data Science,4,4,12,0
+3,25-35,35,8,Big Data,4,3,3,0
+3,15-25,25,8,Introduction to Psychology,3,3,32,1
+2,35-45,45,10,Machine Learning,5,3,38,0
+2,25-35,35,7,programming(java),5,4,30,0
+2,15-25,25,9,"Synapses, Neurons and Brains",4,1,6,1
+3,15-25,25,14,Data Structures and Algorithms,4,3,16,1
+2,25-35,35,10,Machine Learning,4,3,38,0
+3,15-25,25,14,Data Structures and Algorithms,5,3,16,0
+1,15-25,25,8,Neural Networks for Machine Learning,5,3,40,0
+2,25-35,35,8,Big Data,5,3,3,1
+2,35-45,45,8,Big Data,5,4,3,0
+1,15-25,25,8,Neural Networks for Machine Learning,4,3,40,1
+2,35-45,45,10,Gamification,4,4,23,0
+2,45-55,55,10,Organizational Analysis,4,4,43,1
+1,15-25,25,14,Data Structures and Algorithms,4,3,16,1
+3,15-25,25,6,The Social Context of Mental Health and Illness,4,3,37,1
+3,45-55,55,7,programming(c++),3,3,29,1
+3,15-25,25,10,Gamification,4,4,23,0
+1,15-25,25,7,programming(java),2,3,30,1
+3,15-25,25,6,Automata,4,4,2,1
+1,35-45,45,7,Learn to Program: The Fundamentals,3,3,49,0
+3,15-25,25,6,Creative Programming for Digital Media & Mobile Apps,3,3,15,0
+1,15-25,25,7,programming(c++),2,2,29,0
+2,45-55,55,14,Data Structures and Algorithms,5,4,16,0
+2,35-45,45,9,Linear and Integer Programming,3,4,35,1
+2,45-55,55,6,Inspiring Leadership through Emotional Intelligence,2,4,34,0
+2,35-45,45,10,Machine Learning,5,4,38,1
+3,15-25,25,14,Data Structures and Algorithms,4,3,16,1
+2,25-35,35,8,Big Data,5,4,3,0
+2,45-55,55,17,A Brief History of Humankind,3,4,28,0
+2,35-45,45,10,Machine Learning,4,4,38,0
+2,25-35,35,7,programming(c++),4,4,29,1
+2,45-55,55,6,An Introduction to Corporate Finance,4,4,20,0
+2,45-55,55,8,Big Data,3,4,3,0
+1,15-25,25,10,Machine Learning,4,2,38,1
+1,15-25,25,8,Writing in Sciences,5,3,52,0
+3,15-25,25,9,Digital Signal Processing,5,2,17,1
+3,15-25,25,7,programming(c++),4,2,29,1
+2,15-25,25,8,Data Analysis,4,2,11,0
+3,15-25,25,6,Cryptography I,3,3,10,0
+2,25-35,35,6,An Introduction to Corporate Finance,5,4,20,0
+3,25-35,35,7,programming(c++),5,3,29,1
+1,15-25,25,14,Data Structures and Algorithms,3,3,16,1
+3,15-25,25,10,Machine Learning,4,3,38,1
+3,15-25,25,7,programming(java),5,3,30,1
+1,15-25,25,10,Machine Learning,4,3,38,1
+2,15-25,25,8,Big Data,5,3,3,1
+3,15-25,25,14,Data Structures and Algorithms,4,3,16,1
+3,15-25,25,12,Compilers,4,3,8,0
+1,15-25,25,7,"History of Rock, Part One",4,3,27,1
+3,15-25,25,7,programming(c++),4,3,29,0
+1,15-25,25,10,Machine Learning,5,3,38,0
+2,15-25,25,12,Startup Engineering,4,2,54,0
+3,15-25,25,9,Digital Signal Processing,3,2,17,0
+1,15-25,25,6,Automata,5,3,2,0
+2,35-45,45,6,Video Games and Learning,5,4,57,0
+3,15-25,25,10,Machine Learning,5,3,38,0
+1,15-25,25,7,programming(java),3,3,30,0
+1,15-25,25,10,Machine Learning,4,3,38,0
+1,15-25,25,7,programming(java),5,3,30,1
+2,25-35,35,8,Big Data,4,4,3,0
+1,15-25,25,7,programming(java),5,3,30,0
+1,15-25,25,10,Machine Learning,3,3,38,0
+3,25-35,35,7,programming(java),5,3,30,0
+3,15-25,25,7,programming(java),5,3,30,0
+1,15-25,25,7,programming(java),3,3,30,0
+1,15-25,25,6,Cryptography I,3,3,10,1
+3,25-35,35,10,Machine Learning,5,3,38,0
+1,15-25,25,10,Machine Learning,5,3,38,1
+2,45-55,55,14,Data Structures and Algorithms,5,4,16,0
+2,15-25,25,7,programming(java),4,4,30,1
+1,25-35,35,7,programming(java),5,3,30,0
+1,25-35,35,6,Creative Programming for Digital Media & Mobile Apps,5,2,15,0
+3,15-25,25,7,programming(c++),3,2,29,1
+3,15-25,25,7,programming(c++),4,3,29,0
+2,15-25,25,9,Nanotechnology: The Basics,5,2,39,0
+1,15-25,25,8,Data Analysis,5,3,11,1
+1,35-45,45,7,programming(java),5,3,30,1
+3,15-25,25,7,programming(c++),3,3,29,0
+1,15-25,25,14,Data Structures and Algorithms,3,3,16,1
+3,15-25,25,7,programming(c++),3,3,29,0
+3,15-25,25,10,Machine Learning,5,3,38,1
+3,15-25,25,7,programming(c++),5,3,29,1
+3,15-25,25,7,Learn to Program: The Fundamentals,5,3,49,1
+1,25-35,35,10,Machine Learning,3,4,38,0
+2,35-45,45,8,Introduction to Data Science,3,4,12,1
+2,25-35,35,8,Big Data,4,4,3,0
+3,15-25,25,7,Learn to Program: The Fundamentals,4,3,49,0
+2,15-25,25,7,programming(c++),3,4,29,1
+1,15-25,25,7,programming(java),3,3,30,1
+2,25-35,35,6,Inspiring Leadership through Emotional Intelligence,4,4,34,1
+1,15-25,25,7,programming(java),3,3,30,0
+3,15-25,25,8,Data Analysis,4,3,11,1
+2,35-45,45,6,Cryptography I,3,4,10,0
+1,15-25,25,12,Compilers,3,3,8,0
+2,35-45,45,8,Big Data,4,4,3,1
+3,15-25,25,14,Data Structures and Algorithms,4,2,16,1
+2,25-35,35,12,Compilers,4,4,8,0
+2,35-45,45,6,An Introduction to Corporate Finance,3,4,20,0
+1,25-35,35,6,An Introduction to Corporate Finance,2,3,20,1
+3,15-25,25,8,Big Data,3,3,3,1
+3,<15,15,7,programming(c++),4,0,29,0
+1,15-25,25,7,programming(java),4,2,30,0
+1,15-25,25,8,Statistics: Making Sense of Data,2,3,33,1
+3,45-55,55,8,Neural Networks for Machine Learning,4,5,40,1
+3,45-55,55,6,Automata,5,5,2,0
+3,45-55,55,8,Statistics: Making Sense of Data,3,5,33,0
+3,25-35,35,10,Machine Learning,5,3,38,1
+1,15-25,25,7,Learn to Program: The Fundamentals,3,3,49,1
+3,25-35,35,6,An Introduction to Corporate Finance,4,3,20,1
+3,15-25,25,7,programming(java),4,2,30,0
+2,35-45,45,10,Computational Methods for Data Analysis,5,4,9,1
+2,45-55,55,8,Introduction to Data Science,3,4,12,0
+3,15-25,25,7,programming(c++),4,3,29,0
+3,15-25,25,10,Machine Learning,5,3,38,0
+1,25-35,35,6,Automata,2,4,2,1
+1,25-35,35,9,Social Network Analysis,3,3,53,1
+2,35-45,45,9,Game Theory,4,5,22,0
+1,15-25,25,8,Understanding Einstein: The Special Theory of Relativity,2,1,19,1
+3,25-35,35,8,Big Data,5,3,3,1
+3,25-35,35,8,Introduction to Data Science,4,3,12,0
+2,35-45,45,6,Bioinformatics: Introduction and Methods,4,4,45,1
+1,15-25,25,7,programming(java),2,2,30,1
+3,35-45,45,10,Natural Language Processing,4,3,41,0
+1,15-25,25,8,Introduction to Data Science,3,1,12,0
+3,15-25,25,8,Data Analysis,4,4,11,0
+1,15-25,25,7,programming(java),5,1,30,1
+3,35-45,45,8,Big Data,5,3,3,1
+1,15-25,25,6,An Introduction to Corporate Finance,2,3,20,0
+3,45-55,55,6,Video Games and Learning,4,5,57,1
+3,15-25,25,9,Digital Signal Processing,4,4,17,1
+2,35-45,45,7,programming(java),4,4,30,0
+2,25-35,35,8,Big Data,4,3,3,0
+3,35-45,45,8,Data Analysis,4,5,11,1
+1,To,25,8,Big Data,5,3,3,0
+2,>55,65,12,Compilers,5,5,8,2
+2,To,25,8,Big Data,4,3,3,0
+3,25-35,35,7,Learn to Program: The Fundamentals,5,3,49,0
+3,15-25,25,7,programming(java),4,3,30,0
+3,15-25,25,8,Data Analysis,5,3,11,0
+1,15-25,25,7,programming(java),3,3,30,1
+3,15-25,25,7,programming(c++),4,3,29,1
+3,35-45,45,7,programming(c++),3,3,29,1
+2,35-45,45,8,Big Data,4,4,3,1
+1,15-25,25,8,Introduction to Psychology,4,3,32,0
+3,15-25,25,6,Creative Programming for Digital Media & Mobile Apps,4,3,15,1
+1,15-25,25,7,programming(java),3,3,30,1
+3,15-25,25,6,Creative Programming for Digital Media & Mobile Apps,5,3,15,0
+1,25-35,35,9,Digital Signal Processing,5,3,17,1
+3,15-25,25,9,Social Network Analysis,4,3,53,0
+2,15-25,25,8,Big Data,4,3,3,1
+2,15-25,25,8,Big Data,4,4,3,1
+2,35-45,45,8,Data Analysis,5,4,11,0
+1,15-25,25,9,Digital Signal Processing,5,3,17,1
+3,15-25,25,8,Introduction to Data Science,4,3,12,0
+1,15-25,25,7,programming(java),5,3,30,1
+2,35-45,45,8,Data Analysis,4,4,11,0
+2,45-55,55,12,Compilers,4,4,8,1
+1,15-25,25,7,programming(java),5,3,30,1
+2,15-25,25,8,Pre-Calculus,3,2,47,0
+2,<15,15,9,"Synapses, Neurons and Brains",2,1,6,1
+1,<15,15,6,Cryptography I,1,2,10,1
+3,<15,15,7,programming(c++),2,1,29,2
+2,<15,15,9,"Synapses, Neurons and Brains",4,1,6,2
+2,<15,15,12,Compilers,3,1,8,1
+1,15-25,25,7,Learn to Program: The Fundamentals,3,3,49,1
+1,15-25,25,12,Experimental Genome Science,3,3,24,0
+2,15-25,25,14,Data Structures and Algorithms,4,2,16,0
+1,15-25,25,7,programming(java),5,3,30,0
+2,25-35,35,5,E-learning and Digital Cultures,5,4,18,0
+1,15-25,25,7,programming(java),4,3,30,0
+3,15-25,25,7,programming(c++),4,2,29,1
+1,15-25,25,8,Statistics: Making Sense of Data,4,3,33,0
+1,15-25,25,7,Learn to Program: The Fundamentals,3,3,49,1
+3,15-25,25,7,programming(c++),4,2,29,1
+3,35-45,45,7,programming(c++),4,3,29,1
+3,15-25,25,12,Compilers,4,4,8,1
+1,25-35,35,8,Introduction to Data Science,3,3,12,0
+3,15-25,25,14,Data Structures and Algorithms,4,3,16,0
+3,15-25,25,8,Introduction to Data Science,4,3,12,0
+2,25-35,35,7,programming(java),4,4,30,1
+3,15-25,25,9,Game Theory,4,3,22,1
+3,15-25,25,7,programming(c++),4,3,29,1
+3,15-25,25,7,programming(c++),4,3,29,0
+1,15-25,25,7,Learn to Program: The Fundamentals,4,4,49,0
+1,15-25,25,6,Automata,4,3,2,1
+3,15-25,25,7,programming(java),4,2,30,0
+3,15-25,25,6,Creative Programming for Digital Media & Mobile Apps,4,3,15,0
+1,15-25,25,7,programming(java),3,3,30,0
+1,25-35,35,8,Neural Networks for Machine Learning,5,3,40,0
+3,15-25,25,7,programming(c++),4,4,29,0
+3,35-45,45,7,programming(java),4,3,30,0
+3,15-25,25,8,Pre-Calculus,3,3,47,0
+3,15-25,25,8,Data Analysis,1,4,11,1
+3,15-25,25,8,Data Analysis,4,3,11,0
+3,15-25,25,14,Data Structures and Algorithms,4,3,16,1
+1,15-25,25,6,Cryptography I,4,2,10,0
+1,15-25,25,15,Introduction to Computing,3,3,46,1
+1,15-25,25,10,Machine Learning,3,3,38,0
+2,15-25,25,14,Data Structures and Algorithms,3,2,16,1
+1,15-25,25,14,Data Structures and Algorithms,3,3,16,1
+3,15-25,25,7,programming(c++),4,2,29,1
+3,15-25,25,10,Machine Learning,5,3,38,1
+3,15-25,25,14,Data Structures and Algorithms,3,2,16,0
+3,15-25,25,14,Data Structures and Algorithms,3,2,16,0
+1,15-25,25,8,Pre-Calculus,3,3,47,0
+1,15-25,25,7,programming(java),4,3,30,0
+1,15-25,25,7,programming(java),2,3,30,0
+1,15-25,25,10,Machine Learning,3,2,38,0
+3,15-25,25,7,programming(c++),4,2,29,1
+1,15-25,25,7,programming(java),3,3,30,0
+1,15-25,25,8,Introduction to Psychology,4,3,32,1
+3,15-25,25,7,programming(c++),5,3,29,0
+3,15-25,25,7,programming(java),4,3,30,0
+1,15-25,25,7,"History of Rock, Part One",4,3,27,0
+3,15-25,25,10,Machine Learning,4,3,38,0
+1,15-25,25,10,Machine Learning,3,3,38,0
+1,15-25,25,7,programming(java),4,3,30,0
+1,15-25,25,7,programming(java),4,3,30,0
+3,15-25,25,14,Data Structures and Algorithms,4,3,16,0
+3,15-25,25,7,programming(c++),3,3,29,1
+1,15-25,25,6,Cryptography I,2,3,10,0
+1,15-25,25,14,Data Structures and Algorithms,1,3,16,0
+2,15-25,25,14,Data Structures and Algorithms,3,2,16,0
+3,15-25,25,8,Introduction to Data Science,4,3,12,0
+3,15-25,25,8,Introduction to Data Science,3,3,12,0
+2,25-35,35,8,Big Data,2,4,3,1
+1,15-25,25,10,Machine Learning,3,3,38,1
+1,35-45,45,8,Introduction to Data Science,5,3,12,0
+3,15-25,25,9,Game Theory,4,3,22,0
+3,15-25,25,8,Introduction to Data Science,4,3,12,0
+3,15-25,25,10,Machine Learning,5,3,38,0
+3,15-25,25,8,Introduction to Data Science,4,3,12,0
+3,15-25,25,10,Machine Learning,4,3,38,0
+2,35-45,45,5,E-learning and Digital Cultures,4,4,18,0
+3,15-25,25,8,Data Analysis,4,3,11,0
+3,15-25,25,8,Introduction to Data Science,4,3,12,0
+3,15-25,25,8,Big Data,5,3,3,0
+3,15-25,25,10,Machine Learning,5,3,38,0
+2,35-45,45,6,Inspiring Leadership through Emotional Intelligence,3,4,34,1
+3,25-35,35,6,Video Games and Learning,4,4,57,0
+2,35-45,45,10,Computational Methods for Data Analysis,5,5,9,1
+3,15-25,25,7,programming(java),4,2,30,0
+1,25-35,35,8,Data Analysis,4,3,11,1
+3,25-35,35,8,Introduction to Psychology,5,3,32,0
+2,35-45,45,6,Cryptography I,3,4,10,1
+3,45-55,55,9,Digital Signal Processing,5,5,17,1
+3,25-35,35,7,programming(c++),4,1,29,0
+3,15-25,25,7,programming(java),5,0,30,1
+2,25-35,35,13,"Networks: Friends, Money, and Bytes",5,4,21,0
+3,25-35,35,9,Asset Pricing,4,3,1,1
+2,15-25,25,12,Bioinformatics Algorithms,4,5,4,1
+3,15-25,25,6,An Introduction to Corporate Finance,4,3,20,1
+2,25-35,35,8,Data Analysis,3,4,11,0
+2,35-45,45,8,Big Data,5,4,3,1
+2,35-45,45,12,Compilers,3,4,8,1
+2,35-45,45,8,Big Data,4,5,3,0
+3,25-35,35,8,Data Analysis,4,3,11,0
+3,15-25,25,7,programming(c++),4,2,29,0
+2,45-55,55,10,Machine Learning,3,4,38,0
+3,15-25,25,7,programming(java),4,2,30,0
+3,15-25,25,9,Digital Signal Processing,2,3,17,1
+3,25-35,35,8,Neural Networks for Machine Learning,4,3,40,1
+3,15-25,25,10,Computational Methods for Data Analysis,4,4,9,0
+1,25-35,35,10,Natural Language Processing,3,3,41,0
+3,25-35,35,8,Big Data,4,3,3,1
+3,25-35,35,11,Probabilistic Graphical Models,4,3,44,0
+3,45-55,55,10,Natural Language Processing,5,5,41,0
+3,35-45,45,9,Social Network Analysis,5,5,53,0
+3,35-45,45,8,Neural Networks for Machine Learning,3,5,40,0
+3,35-45,45,5,Learn to Program: Crafting Quality Code,4,5,50,1
+1,35-45,45,15,Introduction to Computing,3,3,46,0
+1,15-25,25,12,Compilers,2,3,8,1
+3,35-45,45,10,Machine Learning,3,3,38,0
+1,25-35,35,11,Probabilistic Graphical Models,2,4,44,0
+3,25-35,35,8,Data Analysis,3,3,11,0
+3,25-35,35,12,Compilers,4,3,8,1
+3,25-35,35,7,programming(c++),3,3,29,1
+3,15-25,25,6,Cryptography I,4,3,10,0
+3,25-35,35,7,programming(java),4,3,30,1
+2,35-45,45,15,Introduction to Computing,3,4,46,0
+1,25-35,35,10,Machine Learning,4,3,38,0
+3,35-45,45,9,Social Network Analysis,4,3,53,0
+2,45-55,55,9,Digital Signal Processing,4,4,17,1
+3,25-35,35,8,Neural Networks for Machine Learning,5,5,40,0
+1,15-25,25,8,Big Data,2,3,3,0
+2,>55,65,8,Introduction to Psychology,4,4,32,0
+2,25-35,35,14,Data Structures and Algorithms,5,4,16,1
+1,25-35,35,7,programming(java),4,3,30,1
+3,45-55,55,9,Digital Signal Processing,4,5,17,1
+2,35-45,45,12,Statistics One,3,3,55,0
+2,35-45,45,8,Introduction to Data Science,5,4,12,0
+3,25-35,35,8,Introduction to Data Science,5,3,12,1
+1,25-35,35,6,Video Games and Learning,3,4,57,1
+3,15-25,25,6,Automata,5,4,2,1
+2,35-45,45,6,An Introduction to Corporate Finance,4,3,20,0
+3,15-25,25,7,programming(c++),2,3,29,0
+2,35-45,45,9,Asset Pricing,5,3,1,1
+1,25-35,35,9,Social Network Analysis,1,3,53,1
+2,35-45,45,12,Bioinformatics Algorithms,5,4,4,0
+1,25-35,35,7,programming(java),4,3,30,1
+3,35-45,45,9,Game Theory,4,3,22,1
+3,15-25,25,10,Machine Learning,4,3,38,1
+2,35-45,45,6,An Introduction to Corporate Finance,4,4,20,1
+1,15-25,25,8,Introduction to Psychology,2,3,32,1
+2,35-45,45,12,Statistics One,5,4,55,0
+3,15-25,25,8,Neural Networks for Machine Learning,2,3,40,0
+1,15-25,25,8,Statistics: Making Sense of Data,4,3,33,0
+2,25-35,35,8,Big Data,5,4,3,0
+1,25-35,35,9,Linear and Integer Programming,4,3,35,0
+3,15-25,25,11,Probabilistic Graphical Models,5,4,44,0
+2,15-25,25,10,Machine Learning,4,4,38,0
+2,25-35,35,9,Nanotechnology: The Basics,4,4,39,1
+3,25-35,35,8,Introduction to Data Science,3,3,12,1
+2,35-45,45,6,The Social Context of Mental Health and Illness,5,4,37,0
+1,15-25,25,7,programming(java),3,3,30,1
+3,15-25,25,7,programming(c++),4,2,29,1
+1,15-25,25,7,Learn to Program: The Fundamentals,2,3,49,1
+3,35-45,45,6,Cryptography I,4,3,10,1
+1,35-45,45,7,programming(java),4,0,30,1
+3,45-55,55,14,Data Structures and Algorithms,4,4,16,0
+1,15-25,25,8,Introduction to Data Science,2,3,12,0
+1,25-35,35,7,programming(c++),4,3,29,1
+3,35-45,45,8,Neural Networks for Machine Learning,5,4,40,0
+1,25-35,35,11,Probabilistic Graphical Models,3,3,44,0
+1,15-25,25,6,An Introduction to Corporate Finance,2,3,20,1
+1,15-25,25,7,programming(java),4,3,30,1
+1,35-45,45,9,Digital Signal Processing,5,3,17,0
+2,>55,65,6,An Introduction to Corporate Finance,3,4,20,0
+2,35-45,45,9,Nanotechnology: The Basics,3,4,39,0
+1,15-25,25,12,Compilers,2,3,8,1
+2,45-55,55,9,Asset Pricing,4,5,1,1
+3,15-25,25,9,Game Theory,4,3,22,0
+1,25-35,35,9,Game Theory,3,4,22,1
+1,25-35,35,8,Introduction to Psychology,2,3,32,1
+3,25-35,35,8,Big Data,4,3,3,1
+2,35-45,45,8,Statistics: Making Sense of Data,3,4,33,0
+2,35-45,45,12,Compilers,4,4,8,0
+1,35-45,45,8,Introduction to Data Science,5,3,12,0
+3,15-25,25,10,Natural Language Processing,4,3,41,1
+1,15-25,25,8,Introduction to Psychology,4,3,32,1
