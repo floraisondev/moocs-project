@@ -108,3 +108,4 @@ sum(diag(t))/sum(t)
 df1 <- read.csv( "new_data.csv", header = TRUE )
 predictdt2<-predict(dtmodel,df1[435,],type='class')
 predictdt2
+

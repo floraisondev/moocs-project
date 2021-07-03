@@ -63,3 +63,4 @@ if(x==0.5)
 if(x==1)
   C<-"cluter3"
 print(C)
+
