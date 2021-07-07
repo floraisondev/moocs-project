@@ -29,7 +29,14 @@ svm_Linear <- train(Cluster ~., data = training, method = "svmLinear",
                     trControl=trctrl,
                     preProcess = c("center", "scale"),
                     tuneLength = 10)
-#plot(svm_Linear)
+svm_Linear
+
+svm_Linear2 <-train(Cluster ~., data = training, method = "svmLinear",
+                    trControl=trctrl,
+                    preProcess = c("center", "scale"),
+                    tuneGrid = expand.grid(C = seq(0, 2, length = 20)))
+svm_Linear2
+plot(svm_Linear2)
 test_pred <- predict(svm_Linear, newdata = testing,method="class")
 tail( test_pred,1)
 confusionMatrix(test_pred, testing$Cluster )

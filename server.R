@@ -17,10 +17,10 @@ if(interactive()){#
       output$display<-renderText("These are the courses and their actual durations")
       output$display1<-renderText("Course ID course Name Expected Duration")
       output$display2<-renderText("-----------------------------------------")
-      k.data3<-read.csv("course_information.csv")
+      k.data3<-read.csv("courseinformation.csv")
       str(k.data3)
       head(k.data3)
-      output$print1<-renderTable(print(k.data3[,c(1,2,4)]))
+      output$print1<-renderTable(print(k.data3[,c(1,2,3)]))
       output$print2<-renderPrint(print(k.data3[2,c(1,3)]))
       output$print3<-renderPrint(print(k.data3[3,c(1,3)]))
       output$print4<-renderPrint(print(k.data3[4,c(1,3)]))
@@ -155,7 +155,7 @@ if(interactive()){#
       library(R.utils)
       
       
-      #k.data2 <- read.csv( "new_data.csv", header = TRUE )
+      #k.data2 <- read.csv( "Workbook8.csv", header = TRUE )
       #v<-c(1,25-35,25,10,4,3,8,1)
       observe({
         output11<-cbind(input$Age1,input$Expected,input$Interest1,input$Qualification1,input$Course1,input$Gen)
@@ -192,16 +192,21 @@ if(interactive()){#
         
       k.data2<-as.data.frame(scale(k.data2,center=minvalue1,scale=maxvalue1-minvalue1))
       predictions<-compute(neuralmodel,k.data2)
+      
       #predictions
       #str(predictions)
       #predictions
       #predictions$size
       #testdf$Cluster
-      #mse<-sum((predictions$net.result-testdf1$Cluster)^2)/nrow(testdf1)
+      mse<-sum((predictions$net.result-testdf1$Cluster)^2)/nrow(testdf1)
       #plot(predictions$net.result,testdf$Cluster,col="blue")
-      #predictions1<-(predictions$net.result*(max(testdf1$Cluster)-min(testdf1$Cluster)))+min(testdf1$Cluster)
-      #actualvalues<-(testdf1$Cluster)*(max(testdf1$Cluster)-min(testdf1$Cluster))+min(testdf1$Cluster)
-      #mse<-sum((predictions1-actualvalues)^2)/nrow(testdf1)
+      predictions1<-(predictions$net.result*(max(testdf1$Cluster)-min(testdf1$Cluster)))+min(testdf1$Cluster)
+      actualvalues<-(testdf1$Cluster)*(max(testdf1$Cluster)-min(testdf1$Cluster))+min(testdf1$Cluster)
+      mse<-sum((predictions1-actualvalues)^2)/nrow(testdf1)
+      acc1<-(1- mse/100)*100
+      print(acc1)
+     
+      
       
       if(tail(predictions$net.result,1) >0.70){
         output$C<-renderText("Course not completed")
