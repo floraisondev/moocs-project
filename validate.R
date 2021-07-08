@@ -2,8 +2,8 @@ library(MASS)
 library(neuralnet)
 library(MASS)
 library(rpart)
-set.seed(123)
-k.data1 <- read.csv( file.choose(), header = TRUE )
+set.seed(500)
+k.data1 <- read.csv( "Workbook8.csv", header = TRUE )
 head( k.data1 )
 dataframe<-k.data1
 dataframe$Group=NULL
@@ -29,6 +29,7 @@ set.seed(200)
 set.seed(450)
 cv.error<-NULL
 k<-12
+mse <-NULL
 library(plyr)
 pbar<-create_progress_bar('text')
 pbar$init(k)
@@ -42,16 +43,15 @@ for(i in 1:k){
   predictorvars<-paste(predictorvars,collapse="+")
   form=as.formula(paste("Cluster~",predictorvars,collapse="+"))
   nn<-neuralnet(formula=form,hidden=c(4,2),linear.output=T,data=train.cv,stepmax=1e6)
-predictions<-neuralnet::compute(nn,test.cv[,-1])
-predictions1<-(predictions$net.result*(max(test.cv$Cluster)-min(test.cv$Cluster)))+min(test.cv$Cluster)
-actualvalues<-(test.cv$Cluster)*(max(test.cv$Cluster)-min(test.cv$Cluster))+min(test.cv$Cluster)
-mse[i]<-sum((predictions1-actualvalues)^2)/nrow(test.cv)
-mse[i]
+predictions.nn<-neuralnet::compute(nn,test.cv[,-1])
+predictions.nn<-(predictions$net.result*(max(test.cv$Cluster)-min(test.cv$Cluster)))+min(test.cv$Cluster)
+test.cv.r<-(test.cv$Cluster)*(max(test.cv$Cluster)-min(test.cv$Cluster))+min(test.cv$Cluster)
+cv.error[i]<-sum((predictions1-actualvalues)^2)/nrow(test.cv)
 pbar$step
 }
-mean(mse)
-mse
-accuracy=(1-mse)*100
+mean(cv.error)
+cv.error
+accuracy=(1-cv.error)*100
 accuracy
 plot(nn)
 library(MASS)

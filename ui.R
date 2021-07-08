@@ -59,7 +59,7 @@ if(interactive()){#
                     tabPanel("Instructions",textOutput("display"),textOutput("display1"),textOutput("display2"),tableOutput("print1")),
                     tabPanel("Output", textOutput("C"),tags$img(width="700",height="600",src="nueralnet.png")),
                     tabPanel("Other Models",tags$img(width="600",height="450",src="desci.png"),tags$img(src="svm1.png")),
-                    tabPanel("Cross Validation",tags$img(width="600",height="450",src="desci.png"),tags$img(src="svm1.png")),
+                    tabPanel("Accuracy",tags$img(src="nnvalid1.png"),tags$img(width="1000",height="150",src="dtvalid1.png"),tags$img(src="svmvalid.png")),
                     #tabPanel("Course Recommendation",textOutput("disp1"),textOutput("disp2")),
                     tabPanel("Clustering Results",tags$img(width="500",height="300",src="pamclusterplot.png"),tags$img(width="700",height="400",src="pammedoids.png")),
                     tabPanel("Data Set",tableOutput("display5"))

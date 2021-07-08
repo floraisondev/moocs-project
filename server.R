@@ -203,7 +203,12 @@ if(interactive()){#
       predictions1<-(predictions$net.result*(max(testdf1$Cluster)-min(testdf1$Cluster)))+min(testdf1$Cluster)
       actualvalues<-(testdf1$Cluster)*(max(testdf1$Cluster)-min(testdf1$Cluster))+min(testdf1$Cluster)
       mse<-sum((predictions1-actualvalues)^2)/nrow(testdf1)
-      acc1<-(1- mse/100)*100
+      mean(mse)
+      acc1 <-(1- mse/100)*100
+      print("Nueral Network")
+      print("mse")
+      print(mse)
+      print("Accuracy")
       print(acc1)
      
       

@@ -57,6 +57,7 @@ t<-table(predictions=predictdt,actual=test.cv$Cluster)
 outs[i]<-1-sum(diag(t))/sum(t)
 pbar$step
 }
+print("Decision Tree")
 outs
 acc<-(1-outs)*100
 acc
